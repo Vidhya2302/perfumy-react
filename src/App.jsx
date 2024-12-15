@@ -1,10 +1,10 @@
 
 //import files
-import Navbar from './assets/components/navbar'
-import Searchbar from './assets/components/searcbar'
-import Products from './assets/components/product'
-import Aboutus from './assets/components/aboutus'
-import Footer from './assets/components/footer'
+import Navbar from './assets/components/Navbars'
+import Searchbar from './assets/components/Searcbars'
+import Products from './assets/components/Products'
+import Aboutus from './assets/components/About'
+import Footer from './assets/components/Footers'
 
 function App(){
   return(<div>
